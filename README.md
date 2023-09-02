@@ -9,4 +9,4 @@
 #### Created the pivot table for TotalSales to get the sales of each coffee over month
 #### Then created the pivot chart
 #### pivot table CountryBarchart
-#### pivot table TopCustomers
+#### pivot table TopCustomers 
